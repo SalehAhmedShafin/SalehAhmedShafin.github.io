@@ -16,7 +16,6 @@ redirect_from:
 - **Kaggle:** [kaggle.com/positivesas](https://www.kaggle.com/positivesas)
 - **Codeforces:** [codeforces.com/profile/Sa_Shafin](https://codeforces.com/profile/Sa_Shafin)
 - **LeetCode:** [leetcode.com/sa_shafin](https://leetcode.com/sa_shafin)
-- 
 
 ## Education
 
