@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Saleh Ahmed Shafin"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Saleh Ahmed Shafin
 
 - **Location:** Gulshan-1, Dhaka, Bangladesh
 - **Email:** salehahmedshafin7@gmail.com
