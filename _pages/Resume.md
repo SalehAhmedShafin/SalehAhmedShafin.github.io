@@ -148,9 +148,13 @@ redirect_from:
 
 ## Experience
 
+- Python Developer Intern at Codemen Solutions Limited - December 2023 to Present
+  - Master Django, real-time, data (Pandas & NumPy), Python, visualization (Matplotlib & Seaborn), databases,
+    IoT, Docker, stay current, contribute, conferences, security, collaboration
+
 - ITEE Training Program - March to April 2023
   - Learned the fundamentals of information technology and gained skills for success in the IT industry.
 
 - Digital Marketer at EGEN - Jan 2022 to Feb 2023
-  - Gained skills in SEO, content marketing, social media management, PPC advertising, data analysis, and more for effective online product promotion.
+  - Gained skills in SEO, content marketing, social media management, PPC advertising, data analysis, and more     for effective online product promotion.
 
