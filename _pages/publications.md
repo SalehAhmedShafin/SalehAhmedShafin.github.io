@@ -1,9 +1,13 @@
 ---
 layout: archive
 title: "Undergraduation Paper"
-permalink: /publication/
+permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications
 ---
+
+{% include base_path %}
 
 ## No Paper Publish Yet
 
