@@ -10,7 +10,7 @@ redirect_from:
 
 # Professional Experience
 
-## Python Developer Intern
+## Python Developer
 **Codemen Solutions Limited**  
 *December 2023 to Present*
 
