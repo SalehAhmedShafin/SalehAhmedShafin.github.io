@@ -152,7 +152,7 @@ redirect_from:
   - Master Django, real-time, data (Pandas & NumPy), Python, visualization (Matplotlib & Seaborn), databases,
     IoT, Docker, stay current, contribute, conferences, security, collaboration
 
-- ITEE Training Program - March to April 2023
+- ITEE Training Program Level 2 at BD ITEC - March to April 2023
   - Learned the fundamentals of information technology and gained skills for success in the IT industry.
 
 - Digital Marketer at EGEN - Jan 2022 to Feb 2023
