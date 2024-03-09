@@ -148,7 +148,7 @@ redirect_from:
 
 ## Experience
 
-- Python Developer Intern at Codemen Solutions Limited - December 2023 to Present
+- Python Developer at Codemen Solutions Limited - December 2023 to Present
   - Master Django, real-time, data (Pandas & NumPy), Python, visualization (Matplotlib & Seaborn), databases,
     IoT, Docker, stay current, contribute, conferences, security, collaboration
 
