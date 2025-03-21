@@ -36,6 +36,7 @@ redirect_from:
 
 # Additional Information
 
+- Developed strong communication, adaptability, and critical thinking abilities under challenging conditions.
 - Passionate about continuous learning and professional development.
 - Proven ability to adapt to new technologies and apply them to real-world projects.
 - Strong emphasis on collaboration and contributing to a positive team environment.
