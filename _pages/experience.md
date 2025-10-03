@@ -10,14 +10,16 @@ redirect_from:
 
 # Professional Experience
 
-## Python Developer
+## AI Engineer  
 **Codemen Solutions Limited**  
-*December 2023 to Present*
+*December 2023 – Present*  
 
-- Mastering Django, real-time applications, data manipulation (Pandas & NumPy), Python programming, data visualization (Matplotlib & Seaborn).
-- Proficient in working with databases, IoT (Internet of Things), and Docker.
-- Dedicated to staying current with the latest technologies and industry trends.
-- Actively contributing to collaborative projects, participating in conferences, and emphasizing security in development processes.
+- Developing and deploying AI solutions with **LLMs, AI Agents, and RAG-based document search** (Vector RAG, Graph RAG, Hybrid Search).  
+- Building intelligent workflows using **FlowiseAI, ELSA WorkFlow**, and backend services with **FastAPI & Django**.  
+- Skilled in **data processing, analysis, and visualization** with Pandas, NumPy, and Matplotlib.  
+- Working with **Docker, AWS, and cloud-based deployments** for scalable AI systems.  
+- Collaborating with global teams, contributing to research-driven projects, and ensuring **security and reliability** in production environments.  
+
 
 ## ITEE Training Program Level-2
 **Bangladesh IT-engineers Examination Center (BD-ITEC) of Bangladesh Computer Council**  
