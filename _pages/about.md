@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<p style="text-align: justify;">Greetings! I'm <b>Saleh Ahmed Shafin</b>, but most people call me <b>Shafin</b>. I’m from <b>Dhaka, Bangladesh</b>, and I currently work as a <b>Python Developer</b> at <b>Codemen Solutions Limited</b>. I recently graduated with a degree in Computer Science and Engineering from <b>Ahsanullah University of Science and Technology</b>. My passion lies in learning new technologies and conducting research, with the ultimate goal of using my knowledge to solve engineering problems.</p>
+<p style="text-align: justify;">Greetings! I'm <b>Saleh Ahmed Shafin</b>, but most people call me <b>Shafin</b>. I’m from <b>Dhaka, Bangladesh</b>, and I currently work as a <b>AI Engineer</b> at <b>Codemen Solutions Limited</b>. I graduated with a degree in Computer Science and Engineering from <b>Ahsanullah University of Science and Technology</b>. My passion lies in learning new technologies and conducting research, with the ultimate goal of using my knowledge to solve engineering problems.</p>
 
 <p style="text-align: justify;">In my current role at Codemen Solutions Limited, I have developed and implemented advanced <b>LLM-driven applications</b> and <b>gained significant experience</b> in document search techniques such as <b>Vector RAG</b>, <b>Graph RAG</b>, and <b>Hybrid search</b>. I work with <b>FastAPI</b> and <b>Django</b> to build scalable backend systems and use <b>Docker</b> for seamless application deployment in cloud environments like <b>AWS</b>. Collaborating with <b>global teams</b> has refined my communication and teamwork skills, helping me stay up-to-date with emerging technologies. I'm actively contributing to the community and attending conferences.</p>
 
